@@ -1,0 +1,55 @@
+Gladepack Resource Pack v2.0-a.2024-0124 NSFW Add-on (2024-01-24)
+Created and Compiled By The Gladecraft Community
+
+   This document lists a collection of the resource packs and custom textures used in the Gladecraft Resource Pack NSFW Add-on for the
+   Gladecraft server. (This text document is not used inside of the Minecraft game.)
+
+---------------------------------------------------------------------------------------------------------------------------
+Credits and Thank You's (by Minecraft Java Edition Username)
+	
+	Character39
+	Echwo
+	FieryC_PvP
+	FL_CL
+	Hypwr
+	iiMon
+	LogLug
+	LunarIce
+	nonomense
+	o0Icy0o
+	shyro_pyro
+	
+---------------------------------------------------------------------------------------------------------------------------
+
+===============Added Resource Packs===============
+--------Enchantment Textures Resource Pack 1.16.3 by Leckaschmecka*---------
+	(https://resource-pack.com/enchantment-textures-resource-pack-1-15/)
+	Note: This aspect of the pack only works when running an Optifine version of Minecraft.
+	*Heavily edited to work on newer versions of minecraft
+
+===========Custom Textures and Sounds============
+
+----------Beds----------
+	-Black Bed 			Albedo from Overlord
+	-Blue 				Tamamo no Mae from Fate: Grand Order
+	-Brown 				Rin Tohsaka from Fate: Stay Night
+	-Cyan 			 	Sakuya Shirase from Idolmaster Shiny Colors
+	-Gray Bed 			2B from NieR: Automata
+	-Green  			Formidable from Azur Lane
+	-Light Blue 			Aqua from Konosuba
+	-Light Gray 			Lappland from Arknights
+	-Lime  				Leonmitchelli Galette des Rois from Dog Days
+	-Magenta  			Tosa from Azur Lane
+	-Orange 			Saber from Fate: Grand Order
+	-Pink  				Nero from A Link Between Worlds
+	-Purple  			Akagi and Kaga from Azur Lane
+	-Red  				Zero Two from Darling in the Franxx
+	-White  			Enterprise from Azur Lane
+	-Yellow 	 		Yang from RWBY
+
+----------Custom Language Overrides---------
+	Note: All of the language overrides can be viewed in .\assets\minecraft\lang\en_us.json
+	-Beds
+	-Blocks
+		-Soul Sand
+
